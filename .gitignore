@@ -53,6 +53,8 @@ desktop.ini
 .idea/
 .vscode/*
 !.vscode/extensions.json
+.cursor/
+.lovable/
 *.suo
 *.ntvs*
 *.njsproj

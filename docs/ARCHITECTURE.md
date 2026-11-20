@@ -144,7 +144,6 @@ packages/
   config/
 docs/
 assets/
-.cursor/
 ```
 
 ---

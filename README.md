@@ -106,9 +106,6 @@ LifeLedger/
 │   ├── SECURITY.md           # Threat modeling and security controls
 │   └── TECH_SPEC.md          # Detailed technical specification
 │
-├── .cursor/                  # Cursor IDE AI rules for codebase standards
-│   └── rules/                # Domain-specific AI rules (.mdc)
-│
 ├── .gitignore                # Production root gitignore (ignores secrets, logs, node_modules)
 └── README.md                 # Master project documentation
 ```
